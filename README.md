@@ -1,5 +1,12 @@
 # UCD Computational Network Analysis COMP47270 - case studies
 
+This module focused on modern computational techniques to extract information from large-scale networks and the case studies explored
+algorithms to find dense clusters in networks, community finding in social networks and trust networks and their application in recommender systems.  
+
+The studies were done in Python and presented in Jupyter notebooks. While the recommended way to view these files is by running the notebooks locally,
+github ipynb viewer does also a good job with some minor formatting issues.
+
+
 ## Case Study 1
 
 This case study focuses on network analysis and modeling by using graphs taken from the `SNAP` repository.
