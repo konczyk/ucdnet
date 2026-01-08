@@ -41,7 +41,7 @@ Experiments & Findings:
 
 Overall, the study shows that simple spectral methods can detect meaningful communities, though performance depends heavily on graph structure and algorithm refinement.
 
-## Case Study 3
+## Case Study 3: Trust-Enhanced Rating Prediction
 
 This case study implements a user-based collaborative filtering algorithm for rating prediction and explores whether incorporating trust relationships between users improves prediction quality. The evaluation uses the Epinions dataset.
 
